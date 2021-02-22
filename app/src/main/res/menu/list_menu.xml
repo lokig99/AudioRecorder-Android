@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/deleteMode"
+        android:title="@string/delete_recordings" />
+
+    <item
+        android:id="@+id/mergeMode"
+        android:title="@string/merge_recordings" />
+
+
+</menu>

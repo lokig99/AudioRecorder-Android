@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AudioRecorder</string>
+    <string name="comment">Comment</string>
+    <string name="surname">Surname</string>
+    <string name="title">Title</string>
+    <string name="name">Name</string>
+    <string name="metadata">MetaData</string>
+    <string name="recording">Recording</string>
+    <string name="list">List</string>
+    <string name="save">Save</string>
+    <string name="_0db">0dB</string>
+    <string name="_80db">-80dB</string>
+    <string name="stop">STOP</string>
+    <string name="record">Record</string>
+    <string name="delete_recordings">Delete recordings</string>
+    <string name="merge_recordings">Merge recordings</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="merge">Merge</string>
+    <string name="comment_placeholder">comment</string>
+    <string name="time_placeholder">00:00</string>
+    <string name="play_button">Play Button</string>
+    <string name="name_surname_placeholder">Name Surname</string>
+    <string name="date_placeholder">2000-01-01</string>
+</resources>
